@@ -13,7 +13,7 @@ imediata), estão ao alcance (setup mínimo). É inerentemente relativo, está r
 - Achar que pelo código estar bem organizado (e/ou separado em vários arquivos) você tem um código simples.
 - Achar que por estar coberto por testes seu código é simples.
 
-*"Não é por que você está numa estrada cheia de muretas (testes) que evitam que o carro saia do rumo, que o percurso está de boas. Pode ter curvas, cruzamentos, não saber pra qual lado ter que ir e ainda assim não fazer ter como fazer um erro de fato." - Interpretação livre do exemplo dele na palestra.
+*"Não é por que você está numa estrada cheia de muretas (testes) que evitam que o carro saia do rumo, que o percurso está de boas. Pode ter curvas, cruzamentos, não saber pra qual lado ter que ir e ainda assim não fazer ter como fazer um erro de fato."* - Interpretação livre do exemplo dele na palestra.
 
 # Caminho para o código simples
 
